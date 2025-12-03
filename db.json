@@ -1,0 +1,42 @@
+{
+  "students": [
+    {
+      "name": "sparsh",
+      "email": "test1@gmail.com",
+      "section": "D",
+      "enrollmentDate": "2025-12-12",
+      "id": 1
+    },
+    {
+      "name": "Aman",
+      "email": "test2@gmail.com",
+      "section": "E",
+      "enrollmentDate": "2025-12-12",
+      "id": 2
+    }
+  ],
+  "sections": [
+    {
+      "name": "D",
+      "description": "Cluster 1",
+      "totalStudent": "72",
+      "id": 1
+    },
+    {
+      "name": "E",
+      "description": "Cluster 1",
+      "totalStudent": "75",
+      "id": 2
+    }
+  ],
+  "results": [
+    {
+      "name": "s",
+      "subject": "s",
+      "marks": "2",
+      "grade": "s",
+      "examdate": "0012-12-12",
+      "id": "cZfwpCN"
+    }
+  ]
+}
