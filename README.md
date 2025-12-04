@@ -5,6 +5,9 @@ _A Mini-Project using React (Vite) + JSON Server_
 A clean and efficient web-based system for managing student exam results. This project uses **React (Vite)** for the frontend and **JSON Server** as a lightweight backend/database.
 
 ---
+## 🔗 Live Demo  
+[Click here to view the project](https://student-management-app-psi-six.vercel.app/)
+
 
 ##  Features
 
