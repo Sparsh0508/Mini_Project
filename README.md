@@ -96,10 +96,6 @@ npm install -g json-server
 1. Open terminal
 2. Navigate to the project folder:
 
-```bash
-cd Students_Result_Managment_System
-```
-
 3. Install dependencies (if not already done):
 
 ```bash
