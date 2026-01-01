@@ -38,5 +38,34 @@
       "examdate": "0012-12-12",
       "id": "cZfwpCN"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password",
+      "name": "Admin User"
+    },
+    {
+      "username": "",
+      "password": "",
+      "name": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "username": "sparsh",
+      "password": "1234",
+      "name": "Sparsh",
+      "email": "sparsh0@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "test2",
+      "password": "1234",
+      "name": "Test User",
+      "email": "newtest1@example.com",
+      "id": 4
+    }
   ]
 }

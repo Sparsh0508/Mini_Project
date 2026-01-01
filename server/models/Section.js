@@ -1,0 +1,20 @@
+import mongoose from 'mongoose';
+
+const sectionSchema = new mongoose.Schema({
+    name: {
+        type: String,
+        required: true,
+    },
+    description: {
+        type: String,
+        required: true,
+    },
+    totalStudent: {
+        type: String,
+        required: true,
+    },
+}, {
+    timestamps: true,
+});
+
+export default mongoose.model('Section', sectionSchema);
